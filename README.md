@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#mysql #php #react
+
+Para iniciar a aplicação:
+
+baixar as pastas; 
+
+a pasta php-react deve ser inserida no htdocs; 
+
+a pasta crud necessita do (npm install) no terminal; 
+
+dentro do phpMyAdmin, importar o Users.sql (da pasta php-react); 
+
+após isso iniciar a aplicação com (npm start).
